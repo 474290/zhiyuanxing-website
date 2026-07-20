@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /assets/*.png  # 图片资源允许被抓取；此行仅为示例，可删除
 
-Sitemap: https://www.zhiyuanxing.com/sitemap.xml
+Sitemap: https://474290.github.io/zhiyuanxing-website/sitemap.xml
